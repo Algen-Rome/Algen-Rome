@@ -6,61 +6,28 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com">
-    <img src="https://komarev.com" alt="Profile Views" />
-  </a>
-</p>
-
 </div>
-
----
 
 ### 🚀 About Me
 
 - 🔭 **Focusing on:** High-fidelity user interfaces and robust server architecture.
 - ⚡ **Core Philosophy:** Writing clean, maintainable, and self-documenting code.
 - 🛠️ **Current Focus:** Optimizing application speed, API integrations, and modern database management.
-- 📫 **Connect with me:** Reach out via my GitHub repositories or drop me a line.
+- 📫 **Connect with me:** [Gano.algenrome.m@gmail.com](mailto:Gano.algenrome.m@gmail.com)
 
 ---
 
 ### 🧰 Tech Stack & Toolbox
 
 #### 🎨 Frontend Architecture
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![Tailwind CSS](https://shields.io)
-![JavaScript](https://shields.io)
+* **HTML5:** Structuring clean, semantic document layouts.
+* **CSS3:** Implementing structured layout styling rules.
+* **Tailwind CSS:** Compiling rapid, utility-first user interfaces.
+* **JavaScript:** Engineering interactive client-side behaviors.
 
 #### ⚙️ Backend & Database Engineering
-![PHP](https://shields.io)
-![Laravel](https://shields.io)
-![MySQL](https://shields.io)
+* **PHP:** Programming server-side core application logic.
+* **Laravel:** Architectural MVC application framework processing.
+* **MySQL:** Architecting structured relation queries and schemas.
 
 ---
-
-### 📊 Code Performance Metrics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://shion.dev" alt="Algen's GitHub Stats" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://shion.dev" alt="Algen's Most Used Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
-  
-  <br />
-  
-  <img src="https://herokuapp.com" alt="Algen's Commit Streak" width="100%" />
-</div>
-
----
-
-<div align="center">
-  <sub>Designed with ❤️ by Algen Rome Gaño. Connected to the open source ecosystem.</sub>
-</div>
