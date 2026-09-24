@@ -1,15 +1,9 @@
-<p align="center">
-  👋 Hi there, I'm <code><b>Algen Rome Gaño</b></code>
-</p>
+# 👋 Hi there, I'm `Algen Rome Gaño`
 
-<p align="center">
-  🚀 <b><span style="color: #06B6D4;">Aspiring Full-Stack Web Developer</span></b> 🚀
-</p>
+### 🚀 **Aspiring Full-Stack Web Developer**
 
-<p align="center">
-  Passionate about building <b>clean</b>, <b>scalable</b>, and <b>user-focused web applications</b>.<br>
-  Bridging robust backend logic with modern, responsive frontend interfaces.
-</p>
+Passionate about building **clean**, **scalable**, and **user-focused web applications**.<br>
+Bridging robust backend logic with modern, responsive frontend interfaces.
 
 ---
 
