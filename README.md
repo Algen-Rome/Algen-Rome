@@ -1,68 +1,77 @@
 <div align="center">
-  <h1>👋 Hello World, I'm Algen Rome Gaño</h1>
-  <p><b>🚀 Full-Stack Web Developer | Backend Enthusiast ⚙️</b></p>
-  <p><i>Transforming complex data structures into elegant, fluid digital experiences.</i></p>
+  <!-- Dynamic Typing Animation Banner -->
+  <img src="https://demolab.com👋+Hello+World%2C+I'm+Algen+Rome+Gaño;⚡+Full-Stack+Web+Developer;🛡️+Laravel+Backend+Architect;🎨+Tailwind+CSS+Designer" alt="Algen's Typing Animation" />
+
+  <p align="center">
+    <code>🚀 engineering_scalable_digital_solutions.exe</code>
+  </p>
+
+  <p align="center">
+    <img src="https://shields.io_🇵🇭-121214?style=flat&logo=mappin&logoColor=00F2FE" />
+    <img src="https://shields.io" />
+  </p>
 </div>
 
 ---
 
-### 💻 Profile Core
-```txt
-👤 User:   AlgenRomeGano
-🛠️ Stack:  Tailwind CSS | PHP | Laravel | MySQL
-🎯 Focus:  Clean Architectures & Utility-First Layouts
-🇵🇭 Origin: Philippines
+### 🌐 System Core / Tech Stack
+
+<div align="center">
+  <!-- Frontend Shield Group -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <br/>
+  <!-- Backend Shield Group -->
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+  <img src="https://shields.io" />
+</div>
+
+---
+
+### 🛠️ Execution Pipeline
+
+```javascript
+const algen = {
+  frontend: {
+    ui: "Utility-first architectures using Tailwind CSS",
+    markup: "Semantic structure utilizing HTML5 & CSS3 layout engines"
+  },
+  backend: {
+    framework: "Robust, decoupled API services built on Laravel",
+    runtime: "Highly optimized server-side logic managed with PHP"
+  },
+  dataStore: {
+    engine: "MySQL relational models with indexed query execution"
+  }
+};
 ```
 
 ---
 
-### 🛠️ Tech Stack & Ecosystem
+### 📡 Active Logs & Metrics
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎨 Frontend Engine</h4>
-      <p>
-        <img src="https://shields.io" alt="HTML5" /><br/>
-        <img src="https://shields.io" alt="CSS3" /><br/>
-        <img src="https://shields.io" alt="Tailwind" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Backend & Data Core</h4>
-      <p>
-        <img src="https://shields.io" alt="PHP" /><br/>
-        <img src="https://shields.io" alt="Laravel" /><br/>
-        <img src="https://shields.io" alt="MySQL" />
-      </p>
-    </td>
-  </tr>
-</table>
+* 🗄️ **Database:** Scripting flawless database migrations and handling secure backend relational entities.
+* 📦 **MVC Architecture:** Routing system endpoints with modular controllers and clean object-oriented classes.
+* 🎨 **UI Engineering:** Rendering lightning-fast, ultra-responsive web views natively on any screen width.
 
 ---
 
-### 📡 Git Stream
-- 🏗️ **Architecture:** Developing scalable API endpoints via **Laravel controllers**.
-- 🎨 **Design:** Engineering lightning-fast, ultra-responsive modern UI components with **Tailwind CSS**.
-- 🗄️ **Database:** Writing optimized database migrations and indexing **MySQL tables** for micro-second queries.
-
----
-
-### 📥 Connection Matrix
+### 📥 Connect with the Matrix
 
 <p align="left">
   <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Gmail" />
+    <img src="https://shields.io" alt="Gmail Contact" />
   </a>
   <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
+    <img src="https://shields.io" alt="LinkedIn Contact" />
   </a>
 </p>
 
-```ini
-[Status] Open to collaborations / Junior Dev Roles 💼
-```
+---
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="Algen's GitHub Streak" />
-</p>
+<div align="center">
+  <!-- Glowing Cyberpunk Activity Graphic Card -->
+  <img src="https://vercel.app" alt="Algen's Live Stats Dashboard" />
+</div>
