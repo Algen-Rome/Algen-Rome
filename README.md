@@ -21,14 +21,14 @@ An aspiring **Full-Stack Web Developer** passionate about building clean, effici
 ### 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=Algen-Rome&theme=tokyonight" alt="GitHub Profile Summary" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/top-languages?username=Algen-Rome&theme=tokyonight" alt="Top Languages" width="48%" />
+  <img src="https://img.shields.io/github/followers/Algen-Rome?label=Followers&style=for-the-badge&color=777BB4&logo=github" />
+  <img src="https://img.shields.io/github/stars/Algen-Rome?label=Stars&style=for-the-badge&color=FF2D20&logo=github" />
+  <img src="https://img.shields.io/github/commit-activity/m/Algen-Rome/Algen-Rome?label=Commits&style=for-the-badge&color=06B6D4&logo=github" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algen-Rome&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### ⚡ What I'm Up To
