@@ -46,17 +46,17 @@
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://vercel.app" alt="Algen's GitHub Stats" width="100%" />
+        <img src="https://shion.dev" alt="Algen's GitHub Stats" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://vercel.app" alt="Algen's Most Used Languages" width="100%" />
+        <img src="https://shion.dev" alt="Algen's Most Used Languages" width="100%" />
       </td>
     </tr>
   </table>
   
   <br />
   
-  <img src="https://herokuapp.com" alt="Algen's Commit Streak" width="100%" />
+  <img src="https://vercel.app" alt="Algen's Commit Streak" width="100%" />
 </div>
 
 ---
