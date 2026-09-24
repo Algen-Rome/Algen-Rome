@@ -1,20 +1,27 @@
-# Hi there, I'm Algen Rome Gaño 👋
+# <h1 align="center">👋 Hi there, I'm <span style="color: #06B6D4;">Algen Rome Gaño</span></h1>
 
-An aspiring **Full-Stack Web Developer** passionate about building clean, efficient, and user-focused web applications. I bridge backend logic with modern frontend interfaces using PHP, Laravel, and utility-first CSS frameworks.
+<p align="center">
+  🚀 <b>Aspiring Full-Stack Web Developer</b> 🚀
+</p>
+
+<p align="center">
+  Passionate about building <b>clean</b>, <b>scalable</b>, and <b>user-focused web applications</b>.<br>
+  Bridging robust backend logic with modern, responsive frontend interfaces.
+</p>
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-**Backend & Database**  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+**Core Focus**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+**UI & Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ---
 
@@ -29,13 +36,14 @@ An aspiring **Full-Stack Web Developer** passionate about building clean, effici
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algen-Rome&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 ---
 
 ### ⚡ What I'm Up To
-- 🔭 **Currently:** Building dynamic web applications using Laravel and Tailwind CSS.
-- 🌱 **Learning:** Expanding my JavaScript ecosystem knowledge to strengthen full-stack capabilities.
-- 🎯 **Goal:** Securing a role as a Full-Stack Web Developer.
-- 💬 **Ask me about:** PHP, Laravel database relationships, and responsive frontend layouts.
+- 🔭 **Currently:** Developing full-stack web applications using **Laravel** & **Tailwind CSS**.
+- 🌱 **Learning:** Expanding into modern **JavaScript frameworks** to round out my full-stack skillset.
+- 🎯 **Goal:** Securing a role as a **Full-Stack Web Developer**.
+- 💬 **Ask me about:** PHP, Laravel architecture, MySQL databases, and responsive layouts.
 
 ---
 
