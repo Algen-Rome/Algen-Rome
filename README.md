@@ -9,22 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 🎮 Game developer working with **Flutter/Flame**, **Godot**, and **Unity**
-- 📱 Mobile app developer building with **Flutter/Dart**
-- 🌐 Full-stack web developer — **PHP**, **MySQL**, **Bootstrap 5**
+- 🌐 Full-stack web developer — **PHP**, **MySQL**, **Bootstrap 5**, **Html**, **Tailwind**
 - 📚 Currently studying **Data Structures & Algorithms** (NeetCode 150)
 - 🇵🇭 Based in the Philippines
 
 ---
 
 ### 🛠️ Tech Stack
-
-**Game Development**
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 **Web Development**
 
