@@ -1,14 +1,9 @@
 <div align="center">
-  <!-- Dynamic Typing Animation Banner -->
+  <!-- Live Typing Animation Banner -->
   <img src="https://demolab.com👋+Hello+World%2C+I'm+Algen+Rome+Gaño;⚡+Full-Stack+Web+Developer;🛡️+Laravel+Backend+Architect;🎨+Tailwind+CSS+Designer" alt="Algen's Typing Animation" />
 
   <p align="center">
     <code>🚀 engineering_scalable_digital_solutions.exe</code>
-  </p>
-
-  <p align="center">
-    <img src="https://shields.io_🇵🇭-121214?style=flat&logo=mappin&logoColor=00F2FE" />
-    <img src="https://shields.io" />
   </p>
 </div>
 
@@ -17,12 +12,12 @@
 ### 🌐 System Core / Tech Stack
 
 <div align="center">
-  <!-- Frontend Shield Group -->
+  <!-- Frontend Icons -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <br/>
-  <!-- Backend Shield Group -->
+  <!-- Backend & Database Icons -->
   <img src="https://shields.io" />
   <img src="https://shields.io" />
   <img src="https://shields.io" />
@@ -72,6 +67,6 @@ const algen = {
 ---
 
 <div align="center">
-  <!-- Glowing Cyberpunk Activity Graphic Card -->
+  <!-- Replace YOUR_GITHUB_USERNAME with your actual github user profile name -->
   <img src="https://vercel.app" alt="Algen's Live Stats Dashboard" />
 </div>
