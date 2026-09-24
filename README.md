@@ -56,7 +56,7 @@
   
   <br />
   
-  <img src="https://vercel.app" alt="Algen's Commit Streak" width="100%" />
+  <img src="https://herokuapp.com" alt="Algen's Commit Streak" width="100%" />
 </div>
 
 ---
