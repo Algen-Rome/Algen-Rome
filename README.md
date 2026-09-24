@@ -1,72 +1,74 @@
 <div align="center">
-  <!-- Live Typing Animation Banner -->
-  <img src="https://demolab.com👋+Hello+World%2C+I'm+Algen+Rome+Gaño;⚡+Full-Stack+Web+Developer;🛡️+Laravel+Backend+Architect;🎨+Tailwind+CSS+Designer" alt="Algen's Typing Animation" />
+  <!-- Soft, Elegant Typing Text Banner -->
+  <img src="https://demolab.com" alt="Algen's Banner" />
 
   <p align="center">
-    <code>🚀 engineering_scalable_digital_solutions.exe</code>
+    🕊️ <i>Building clean, simple solutions for complex digital architectures.</i>
+  </p>
+  
+  <p align="center">
+    <a href="https://github.com">
+      <img src="https://shields.io" />
+    </a>
   </p>
 </div>
 
 ---
 
-### 🌐 System Core / Tech Stack
+### 🎨 The Core Stack
 
-<div align="center">
-  <!-- Frontend Icons -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <br/>
-  <!-- Backend & Database Icons -->
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-  <img src="https://shields.io" />
-</div>
+A curated ecosystem focused on speed, utility, and elegant code structures.
+
+#### 🖌️ Frontend Interface
+- **HTML5 & CSS3** — Structured semantic layers and modern layout engines.
+- **Tailwind CSS** — Rapid, utility-first UI styling with strict design tokens.
+
+#### ⚙️ Backend Logic & Data
+- **PHP & Laravel** — Robust, enterprise-grade MVC frameworks and API design.
+- **MySQL** — Scalable, optimized relational database schemas and queries.
 
 ---
 
-### 🛠️ Execution Pipeline
+### 🏛️ Architecture & Principles
 
-```javascript
-const algen = {
-  frontend: {
-    ui: "Utility-first architectures using Tailwind CSS",
-    markup: "Semantic structure utilizing HTML5 & CSS3 layout engines"
-  },
-  backend: {
-    framework: "Robust, decoupled API services built on Laravel",
-    runtime: "Highly optimized server-side logic managed with PHP"
-  },
-  dataStore: {
-    engine: "MySQL relational models with indexed query execution"
-  }
-};
+```yaml
+Develper Profile:
+  Focus: Full-Stack Web Engineering
+  Core Values:
+    - Clean Code (DRY / SOLID Principles)
+    - Responsive, Accessible Interfaces
+    - Highly Secure Backend Architectures
+    - Optimized Query Execution
 ```
 
 ---
 
-### 📡 Active Logs & Metrics
-
-* 🗄️ **Database:** Scripting flawless database migrations and handling secure backend relational entities.
-* 📦 **MVC Architecture:** Routing system endpoints with modular controllers and clean object-oriented classes.
-* 🎨 **UI Engineering:** Rendering lightning-fast, ultra-responsive web views natively on any screen width.
-
----
-
-### 📥 Connect with the Matrix
-
-<p align="left">
-  <a href="mailto:your.email@example.com">
-    <img src="https://shields.io" alt="Gmail Contact" />
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn Contact" />
-  </a>
-</p>
-
----
+### 📈 Contribution Insights
 
 <div align="center">
-  <!-- Replace YOUR_GITHUB_USERNAME with your actual github user profile name -->
-  <img src="https://vercel.app" alt="Algen's Live Stats Dashboard" />
+  <table border="0" cellpadding="0" cellspacing="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://vercel.app" alt="Algen's Stats" width="380px" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://vercel.app" alt="Algen's Top Langs" width="380px" />
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+### 📥 Let's Collaborate
+
+If you want to build a project together, talk about Laravel optimization, or just connect:
+
+<p align="left">
+  <a href="mailto:your.email@example.com" target="_blank">
+    <img src="https://shields.io" alt="Email" />
+  </a>
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
+</p>
