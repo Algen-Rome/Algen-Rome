@@ -1,74 +1,47 @@
-# 🚀 <code>Algen Rome Gaño</code>
-**Full-Stack Software Engineer**  
-📍 Philippines | ✉️ [Gano.algenrome.m@gmail.com](mailto:Gano.algenrome.m@gmail.com)
+# Hi there, I'm Algen Rome Gaño 👋
+
+An aspiring **Full-Stack Web Developer** passionate about building clean, efficient, and user-focused web applications. I bridge backend logic with modern frontend interfaces using PHP, Laravel, and utility-first CSS frameworks.
 
 ---
 
-### 📂 Professional Summary
-> Highly structured **Full-Stack Web Developer** specializing in scaling monolithic and distributed system frameworks. Experienced in bridging high-fidelity client interfaces with relational database management. Dedicated to writing clean, testable logic and implementing programmatic optimization across the entire application lifecycle.
+### 🛠️ Tech Stack & Tools
+
+**Backend & Database**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**Frontend**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ---
 
-### 🛠️ Technical Competency Grid
+### 📈 GitHub Statistics
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Client-Side Architecture</h4>
-      <ul>
-        <li><b>Core Style:</b> <code>Tailwind CSS</code> (Utility-First Compilation)</li>
-        <li><b>Languages:</b> <code>JavaScript (ES6+)</code>, <code>HTML5</code>, <code>CSS3</code></li>
-        <li><b>Core Capabilities:</b> DOM manipulation, asset optimization, responsive viewport scaling, and async event handling.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Server-Side & Systems</h4>
-      <ul>
-        <li><b>Core Engine:</b> <code>PHP</code> (Object-Oriented Programming)</li>
-        <li><b>Framework:</b> <code>Laravel Framework</code> (MVC Architecture & Eloquent ORM)</li>
-        <li><b>Database Systems:</b> <code>MySQL</code> (Relational Schema Design)</li>
-        <li><b>Core Capabilities:</b> Relational queries, schema normalization, API data routing, and session state management.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🚀 Core Engineering Methodologies
-* 🛡️ **Clean Architecture** — Constructing self-documenting code bases and adhering strictly to `SOLID` development rules.
-* 🗄️ **Database Optimization** — Mapping efficient relational tables, preventing `N+1` execution queries, and executing clean data migrations.
-* 🧩 **Full-Stack Bridging** — Crafting responsive asynchronous web clients tightly bound to highly secure server-side logic blocks.
-
----
-
-### 📦 Production Focus Workspaces
-
-<table width="100%">
-  <tr>
-    <td>
-      <b>📂 Enterprise Applications</b><br>
-      Full monolithic frameworks structured on <code>Laravel</code> and <code>PHP</code>, handling complex routing maps, internal services, and clean relational database engines.
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <b>📂 Interactive Interfaces</b><br>
-      High-performance client dashboards compiled with <code>Tailwind CSS</code>, utilizing object-oriented client-side scripts to run real-time interface rendering.
-    </td>
-  </tr>
-</table>
-
----
-
-### 🎓 Education
-
-* **Information Technology & Software Development Foundations**  
-  🏛️ <code>Urdaneta City University</code>  
-  * Focus areas: Core computing concepts, algorithmic problem solving, and application database structuring.
-
----
-
-<div align="right">
-  <sub>Full-Stack Portfolio Workspace // Algen-Rome</sub>
+<div align="center">
+  <img src="https://github-readme-stats-two.vercel.app/api?username=Algen-Rome&show_icons=true&theme=tokyonight&hide_border=true" alt="Algen Rome's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=Algen-Rome&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" width="48%" />
 </div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Algen-Rome&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+### ⚡ What I'm Up To
+- 🔭 **Currently:** Building dynamic web applications using Laravel and Tailwind CSS.
+- 🌱 **Learning:** Expanding my JavaScript ecosystem knowledge to strengthen full-stack capabilities.
+- 🎯 **Goal:** Securing a role as a Full-Stack Web Developer.
+- 💬 **Ask me about:** PHP, Laravel database relationships, and responsive frontend layouts.
+
+---
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=aboutdotme&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
